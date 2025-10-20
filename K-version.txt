@@ -1,3 +1,2 @@
 # Versões dos scripts
-scriptA = 5.1.0
-
+scriptA=5.1.0
