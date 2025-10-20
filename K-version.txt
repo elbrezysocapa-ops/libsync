@@ -1,1 +1,3 @@
-5.1.0
+# Versões dos scripts
+scriptK=5.1.0
+
