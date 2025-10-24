@@ -1,7 +1,7 @@
 return {
     scriptA = {
         active = 1,
-        version = "6.5.0"
+        version = "7.0.0"
     },
     scriptB = {
         active = 0,
